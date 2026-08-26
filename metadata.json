@@ -1,0 +1,6 @@
+{
+  "name": "Falcon AI",
+  "description": "Futuristic autonomous JARVIS-style AI operating layer with 3D particle orb, agentic reasoning, voice conversation, system automation, and neural memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
